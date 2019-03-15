@@ -1,5 +1,5 @@
 node{
-    stage('Build')
+    stage('BuildDev')
     {
 
     }
@@ -10,7 +10,7 @@ node{
     {
 
     }
-    stage('Deploy'){
+    stage('Dev'){
    
     }
 	 stage('Deploy again'){
